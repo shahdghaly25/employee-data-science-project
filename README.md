@@ -1,4 +1,3 @@
-# employee-data-science-project
 # Employee Data Science Final Project
 **Badr University in Assiut — School of AI & Data Management**
 **Course:** Fundamentals of Data Science
