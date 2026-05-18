@@ -1,6 +1,4 @@
 # Employee Data Science Final Project
-**Badr University in Assiut — School of AI & Data Management**
-**Course:** Fundamentals of Data Science
 
 ## Datasets
 - `synthetic_employee_data_hidden.csv` — Supervised dataset (200 rows, 10 columns)
