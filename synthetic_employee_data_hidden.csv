@@ -1,0 +1,201 @@
+EmployeeID,Age,Gender,Department,JobRole,EducationLevel,YearsAtCompany,MonthlyIncome,PerformanceRating,Attrition
+E0001,,Male,Sales,,2.0,2.0,4679.0,1.0,No
+E0002,24.0,Male,IT,Data Analyst,2.0,2.0,3434.0,2.0,
+E0003,56.0,,HR,,5.0,8.0,3106.0,2.0,No
+E0004,43.0,Female,HR,HR Specialist,3.0,,4519.0,4.0,Yes
+E0005,,Female,IT,UX Designer,,3.0,9201.0,1.0,
+E0006,45.0,,IT,Software Engineer,2.0,9.0,4307.0,2.0,No
+E0007,46.0,Female,Finance,Financial Analyst,2.0,11.0,8820.0,2.0,No
+E0008,26.0,Male,Operations,Operations Manager,2.0,3.0,9216.0,3.0,No
+E0009,57.0,,Sales,Sales Executive,,1.0,,4.0,Yes
+E0010,,Female,,Recruiter,4.0,10.0,10517.0,2.0,Yes
+E0011,,Female,Operations,Logistics Coordinator,5.0,12.0,8930.0,2.0,No
+E0012,30.0,Female,IT,,1.0,2.0,,4.0,No
+E0013,,Female,Operations,Logistics Coordinator,,,3188.0,1.0,No
+E0014,56.0,,Sales,Sales Executive,,13.0,5591.0,4.0,Yes
+E0015,,Male,Operations,Operations Manager,3.0,16.0,6258.0,2.0,No
+E0016,32.0,,Operations,Logistics Coordinator,4.0,0.0,4832.0,3.0,
+E0017,41.0,Male,IT,Data Analyst,5.0,2.0,4403.0,4.0,No
+E0018,56.0,,,Recruiter,5.0,5.0,7342.0,,No
+E0019,,Male,Sales,,3.0,14.0,,4.0,Yes
+E0020,,,Sales,Sales Executive,,8.0,6770.0,2.0,Yes
+E0021,25.0,Male,IT,Software Engineer,3.0,,11423.0,2.0,Yes
+E0022,53.0,Male,Operations,Operations Manager,5.0,18.0,10744.0,,No
+E0023,48.0,Male,IT,Software Engineer,4.0,11.0,9939.0,4.0,No
+E0024,25.0,Male,IT,UX Designer,3.0,0.0,,2.0,
+E0025,50.0,Male,Finance,Accountant,3.0,14.0,7092.0,1.0,
+E0026,57.0,Male,,Software Engineer,1.0,7.0,5724.0,,No
+E0027,35.0,Female,IT,Data Analyst,4.0,0.0,9396.0,3.0,No
+E0028,51.0,Female,Finance,Financial Analyst,2.0,,7861.0,2.0,No
+E0029,59.0,Male,Sales,Sales Executive,1.0,18.0,10811.0,2.0,Yes
+E0030,54.0,Male,HR,HR Specialist,5.0,2.0,6853.0,4.0,Yes
+E0031,58.0,Male,,Operations Manager,5.0,2.0,9868.0,3.0,No
+E0032,35.0,Female,HR,Recruiter,,2.0,7915.0,4.0,No
+E0033,26.0,,Finance,Accountant,1.0,4.0,6492.0,3.0,Yes
+E0034,44.0,Male,HR,Recruiter,3.0,5.0,10179.0,3.0,No
+E0035,55.0,Male,Operations,Logistics Coordinator,1.0,,7333.0,1.0,
+E0036,57.0,,Sales,Sales Manager,5.0,,8617.0,2.0,
+E0037,38.0,,Sales,Sales Executive,1.0,13.0,7533.0,1.0,
+E0038,30.0,Female,HR,,5.0,6.0,3158.0,1.0,Yes
+E0039,31.0,Male,,,4.0,2.0,3685.0,3.0,No
+E0040,24.0,Female,HR,HR Specialist,1.0,1.0,9658.0,2.0,No
+E0041,37.0,Male,HR,Recruiter,1.0,5.0,,,No
+E0042,37.0,Female,HR,HR Specialist,4.0,1.0,,2.0,Yes
+E0043,51.0,Female,Sales,Sales Executive,2.0,0.0,6164.0,4.0,No
+E0044,26.0,Female,,Sales Manager,5.0,2.0,3452.0,1.0,
+E0045,38.0,Male,Operations,Logistics Coordinator,1.0,3.0,,3.0,No
+E0046,,,Operations,Operations Manager,4.0,18.0,6114.0,3.0,Yes
+E0047,49.0,Male,Operations,Operations Manager,3.0,13.0,4146.0,3.0,No
+E0048,29.0,Female,,Logistics Coordinator,,5.0,9592.0,3.0,
+E0049,,Female,,Accountant,5.0,9.0,7930.0,4.0,No
+E0050,22.0,,Sales,,4.0,,10618.0,4.0,
+E0051,35.0,Female,HR,HR Specialist,3.0,,8491.0,1.0,
+E0052,37.0,Female,HR,HR Specialist,2.0,0.0,3757.0,2.0,No
+E0053,26.0,Female,Finance,Accountant,4.0,,9547.0,2.0,Yes
+E0054,22.0,Male,Finance,Accountant,2.0,,3822.0,2.0,No
+E0055,29.0,Female,HR,,5.0,5.0,10251.0,4.0,No
+E0056,,Female,HR,Recruiter,4.0,,7050.0,,No
+E0057,55.0,Female,,Recruiter,4.0,2.0,,2.0,Yes
+E0058,42.0,Male,HR,,,12.0,5503.0,2.0,Yes
+E0059,48.0,Female,Operations,,4.0,1.0,,4.0,No
+E0060,59.0,Male,Operations,Logistics Coordinator,4.0,0.0,8763.0,3.0,
+E0061,48.0,Male,Finance,Accountant,,13.0,10956.0,,No
+E0062,47.0,Male,Finance,,5.0,17.0,3441.0,,No
+E0063,,Male,Finance,,4.0,0.0,,3.0,No
+E0064,,Female,,Sales Manager,4.0,4.0,9906.0,,No
+E0065,52.0,Male,Operations,Operations Manager,3.0,,4124.0,1.0,No
+E0066,37.0,Male,IT,,2.0,4.0,10758.0,,No
+E0067,35.0,Female,Sales,Sales Manager,2.0,,,2.0,No
+E0068,28.0,Male,Sales,,4.0,,6249.0,1.0,No
+E0069,37.0,Male,Sales,Sales Executive,5.0,1.0,,4.0,No
+E0070,,Female,IT,UX Designer,4.0,0.0,10102.0,3.0,No
+E0071,51.0,Male,Finance,,5.0,20.0,7425.0,4.0,No
+E0072,59.0,,Sales,Sales Executive,1.0,8.0,10385.0,2.0,
+E0073,58.0,Female,Sales,Sales Executive,4.0,10.0,5979.0,,Yes
+E0074,38.0,,Sales,Sales Manager,5.0,0.0,11464.0,2.0,
+E0075,,Female,Operations,,4.0,20.0,11041.0,4.0,No
+E0076,27.0,Female,,,2.0,2.0,9046.0,4.0,No
+E0077,44.0,,Operations,,,14.0,,,Yes
+E0078,,Male,Sales,Sales Executive,5.0,2.0,6138.0,,No
+E0079,39.0,Female,IT,Data Analyst,,7.0,8912.0,,No
+E0080,56.0,Male,Sales,Sales Executive,1.0,17.0,7786.0,2.0,No
+E0081,53.0,Male,,DevOps Engineer,4.0,,,3.0,Yes
+E0082,25.0,Female,Finance,Accountant,1.0,3.0,11056.0,,No
+E0083,25.0,Male,HR,Recruiter,,1.0,4940.0,4.0,No
+E0084,36.0,,Finance,Financial Analyst,3.0,,10025.0,3.0,
+E0085,25.0,,,HR Specialist,,0.0,5573.0,2.0,Yes
+E0086,26.0,Male,IT,UX Designer,,4.0,10699.0,3.0,Yes
+E0087,40.0,Female,Finance,Accountant,2.0,8.0,6241.0,4.0,
+E0088,36.0,Male,,Sales Executive,1.0,0.0,5718.0,3.0,
+E0089,58.0,,,Accountant,4.0,9.0,9594.0,,No
+E0090,53.0,Female,IT,Software Engineer,4.0,10.0,7102.0,1.0,
+E0091,58.0,Male,Sales,Sales Executive,,15.0,11502.0,4.0,No
+E0092,33.0,Female,Finance,Accountant,4.0,5.0,9690.0,3.0,No
+E0093,28.0,Male,Sales,Sales Manager,4.0,2.0,9561.0,1.0,
+E0094,,Female,,Sales Executive,4.0,16.0,3018.0,4.0,No
+E0095,34.0,Female,Operations,,4.0,,3845.0,2.0,Yes
+E0096,,Female,Finance,Financial Analyst,1.0,0.0,,2.0,No
+E0097,,,IT,Data Analyst,1.0,0.0,4924.0,2.0,No
+E0098,40.0,Female,Finance,,4.0,7.0,,,No
+E0099,60.0,Male,IT,DevOps Engineer,4.0,10.0,,3.0,No
+E0100,40.0,Female,Operations,,2.0,14.0,11824.0,4.0,No
+E0101,57.0,Female,Finance,Financial Analyst,2.0,,9274.0,2.0,
+E0102,48.0,Male,Sales,,,12.0,5492.0,,No
+E0103,,,,UX Designer,1.0,8.0,10486.0,,
+E0104,48.0,Male,IT,UX Designer,3.0,10.0,9512.0,,No
+E0105,56.0,Female,,Sales Manager,5.0,1.0,4121.0,2.0,No
+E0106,,Male,,,1.0,,10269.0,2.0,
+E0107,23.0,Male,Sales,Sales Executive,,1.0,9141.0,,
+E0108,55.0,Female,,Operations Manager,2.0,5.0,4293.0,4.0,No
+E0109,37.0,Female,Operations,Operations Manager,2.0,14.0,7161.0,4.0,
+E0110,22.0,Female,Sales,Sales Executive,1.0,0.0,8661.0,3.0,
+E0111,49.0,Female,,Financial Analyst,2.0,12.0,10916.0,1.0,Yes
+E0112,58.0,Female,Operations,Logistics Coordinator,3.0,,9484.0,3.0,Yes
+E0113,25.0,Female,Sales,Sales Executive,5.0,,6588.0,2.0,No
+E0114,30.0,,IT,DevOps Engineer,4.0,0.0,8977.0,2.0,Yes
+E0115,,Female,Finance,Accountant,2.0,4.0,,3.0,No
+E0116,39.0,Male,Sales,,3.0,,4886.0,4.0,No
+E0117,,Male,,Financial Analyst,1.0,,3228.0,3.0,
+E0118,51.0,Female,,,3.0,3.0,6830.0,4.0,
+E0119,,Female,Operations,,1.0,20.0,10606.0,3.0,No
+E0120,29.0,Male,IT,Software Engineer,,7.0,4902.0,,Yes
+E0121,56.0,Male,Finance,Financial Analyst,3.0,17.0,9866.0,2.0,
+E0122,,Female,Operations,,3.0,0.0,9070.0,2.0,
+E0123,37.0,Female,,,5.0,,3992.0,4.0,Yes
+E0124,29.0,Female,IT,Data Analyst,5.0,0.0,3828.0,3.0,Yes
+E0125,30.0,Male,IT,Data Analyst,5.0,3.0,6817.0,3.0,No
+E0126,60.0,Male,,Sales Executive,2.0,17.0,7106.0,2.0,Yes
+E0127,23.0,Male,IT,DevOps Engineer,2.0,1.0,3258.0,2.0,Yes
+E0128,30.0,Female,Operations,Operations Manager,1.0,7.0,10344.0,,
+E0129,28.0,Female,Operations,Operations Manager,5.0,0.0,11543.0,3.0,No
+E0130,23.0,Male,Finance,,4.0,0.0,11032.0,,
+E0131,27.0,Female,Operations,Operations Manager,1.0,1.0,7505.0,3.0,No
+E0132,60.0,Female,Finance,Financial Analyst,1.0,3.0,,4.0,
+E0133,36.0,Female,Sales,,4.0,6.0,4557.0,3.0,No
+E0134,38.0,Female,HR,Recruiter,1.0,2.0,4398.0,1.0,No
+E0135,,Male,Operations,Operations Manager,5.0,,,,No
+E0136,,Male,,Sales Manager,3.0,,11313.0,2.0,Yes
+E0137,,Male,IT,DevOps Engineer,5.0,,4882.0,,
+E0138,49.0,Male,Operations,Logistics Coordinator,,5.0,,3.0,No
+E0139,,Male,HR,HR Specialist,5.0,12.0,4140.0,2.0,No
+E0140,23.0,Male,Operations,Operations Manager,4.0,1.0,10432.0,3.0,Yes
+E0141,41.0,Female,Operations,Operations Manager,1.0,4.0,5579.0,1.0,No
+E0142,39.0,Female,Finance,Financial Analyst,,,,,Yes
+E0143,54.0,Male,Sales,Sales Manager,1.0,9.0,10972.0,,Yes
+E0144,47.0,Male,IT,Data Analyst,,,,,Yes
+E0145,29.0,,Finance,,2.0,2.0,9229.0,2.0,No
+E0146,44.0,Male,Finance,,4.0,0.0,10532.0,1.0,
+E0147,58.0,Female,Operations,Logistics Coordinator,4.0,9.0,4887.0,4.0,
+E0148,42.0,Male,Operations,Logistics Coordinator,3.0,,10155.0,1.0,Yes
+E0149,59.0,,Operations,Operations Manager,4.0,9.0,8562.0,2.0,No
+E0150,,Male,Operations,Operations Manager,5.0,8.0,6176.0,,No
+E0151,31.0,Male,IT,Data Analyst,3.0,3.0,5842.0,2.0,No
+E0152,26.0,Male,,Financial Analyst,5.0,,10354.0,3.0,No
+E0153,,Male,Finance,Accountant,4.0,14.0,7961.0,,No
+E0154,44.0,Male,Sales,Sales Manager,4.0,1.0,3932.0,3.0,No
+E0155,26.0,Male,Operations,Logistics Coordinator,4.0,4.0,3672.0,4.0,No
+E0156,58.0,Male,Sales,Sales Manager,5.0,4.0,4013.0,4.0,
+E0157,43.0,Male,Operations,Operations Manager,1.0,,10172.0,,No
+E0158,,Female,Sales,,,6.0,8543.0,1.0,No
+E0159,43.0,Male,Sales,Sales Executive,5.0,12.0,7655.0,,No
+E0160,60.0,Male,Sales,Sales Executive,5.0,4.0,8731.0,3.0,No
+E0161,47.0,Male,Operations,Operations Manager,3.0,17.0,,3.0,No
+E0162,55.0,Male,Finance,,1.0,11.0,,2.0,No
+E0163,43.0,Female,HR,HR Specialist,2.0,4.0,4264.0,3.0,No
+E0164,28.0,Male,Sales,Sales Executive,,3.0,5527.0,2.0,Yes
+E0165,32.0,Female,IT,UX Designer,3.0,10.0,,4.0,No
+E0166,,Male,Operations,Operations Manager,,15.0,6178.0,3.0,No
+E0167,58.0,Female,Finance,,4.0,16.0,11641.0,4.0,No
+E0168,,Male,Sales,Sales Executive,,,4680.0,,Yes
+E0169,32.0,Female,Finance,Accountant,4.0,1.0,6637.0,,No
+E0170,23.0,Female,IT,UX Designer,5.0,1.0,6862.0,,No
+E0171,45.0,Male,IT,,1.0,20.0,8493.0,2.0,Yes
+E0172,40.0,Female,HR,Recruiter,4.0,0.0,4298.0,1.0,
+E0173,31.0,,IT,DevOps Engineer,,4.0,4996.0,1.0,
+E0174,51.0,Male,IT,UX Designer,5.0,17.0,3269.0,2.0,No
+E0175,40.0,,IT,,2.0,18.0,9825.0,2.0,
+E0176,27.0,Female,IT,Software Engineer,4.0,3.0,3713.0,4.0,
+E0177,38.0,,Sales,Sales Executive,3.0,7.0,4698.0,,Yes
+E0178,44.0,Female,HR,,4.0,20.0,5986.0,,Yes
+E0179,51.0,Male,Sales,,1.0,6.0,,3.0,No
+E0180,54.0,Female,,Logistics Coordinator,3.0,1.0,6131.0,3.0,No
+E0181,25.0,Female,,,,3.0,9553.0,4.0,No
+E0182,46.0,Female,,Recruiter,,11.0,11507.0,3.0,No
+E0183,49.0,Male,Finance,Accountant,5.0,,8262.0,1.0,Yes
+E0184,40.0,Female,,Financial Analyst,2.0,14.0,8759.0,,Yes
+E0185,,Female,Sales,Sales Executive,,20.0,9655.0,3.0,
+E0186,,,HR,,1.0,2.0,4101.0,,No
+E0187,45.0,Female,Finance,,5.0,4.0,10371.0,3.0,No
+E0188,26.0,Male,Operations,Logistics Coordinator,4.0,,7566.0,,No
+E0189,,Male,Finance,Financial Analyst,5.0,0.0,7288.0,3.0,No
+E0190,35.0,,,Accountant,1.0,2.0,4213.0,4.0,Yes
+E0191,50.0,Male,Sales,Sales Manager,1.0,17.0,11882.0,3.0,No
+E0192,32.0,Male,Sales,Sales Executive,1.0,3.0,5275.0,,No
+E0193,23.0,Female,Operations,Logistics Coordinator,,0.0,4412.0,1.0,No
+E0194,52.0,Female,Finance,Accountant,,10.0,4215.0,4.0,No
+E0195,55.0,Female,HR,HR Specialist,2.0,,11238.0,1.0,
+E0196,,Male,Sales,,2.0,10.0,,3.0,
+E0197,55.0,,,DevOps Engineer,2.0,20.0,,2.0,No
+E0198,56.0,Male,Operations,Operations Manager,5.0,18.0,5526.0,2.0,No
+E0199,60.0,Female,Operations,Operations Manager,,2.0,3744.0,,No
+E0200,58.0,Female,Operations,Operations Manager,4.0,20.0,11938.0,3.0,No
